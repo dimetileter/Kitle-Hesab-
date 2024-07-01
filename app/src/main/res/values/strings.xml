@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kitle Endeksi Aracı</string>
+    <string name="kitle_hesabi">Kitle Hesabı</string>
+    <string name="cinsiyet">Cinsiyet</string>
+    <string name="erkek">Erkek</string>
+    <string name="kadin">Kadın</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="sifirla">Sıfırla</string>
+    <string name="boy">Boy</string>
+    <string name="kilo">Kilo</string>
+    <string name="kg">Kg</string>
+    <string name="vucut_kitle_endeksi">Vücut kitle endeksi</string>
+    <string name="vucut_yuzey_alaniniz">Vücut yüzey alanınız</string>
+    <string name="ideal_kilonuz">İdeal kilonuz</string>
+
+</resources>
